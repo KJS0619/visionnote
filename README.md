@@ -1,0 +1,2 @@
+# visionnote
+MyJavaClass
